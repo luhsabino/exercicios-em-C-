@@ -1,0 +1,15 @@
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.deps.json
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.runtimeconfig.json
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.dll
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.pdb
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.csproj.AssemblyReference.cache
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.AssemblyInfoInputs.cache
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.AssemblyInfo.cs
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.csproj.CoreCompileInputs.cache
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.dll
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/refint/DigitalInovationOne.dll
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.pdb
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.genruntimeconfig.cache
+/home/lucimara/Projetos/dotNet/DigitalInovationOne/obj/Debug/net6.0/ref/DigitalInovationOne.dll
