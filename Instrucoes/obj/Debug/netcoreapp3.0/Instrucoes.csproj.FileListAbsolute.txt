@@ -1,0 +1,5 @@
+/home/lucimara/Projetos/dotNet/Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.csproj.AssemblyReference.cache
+/home/lucimara/Projetos/dotNet/Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucimara/Projetos/dotNet/Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.AssemblyInfoInputs.cache
+/home/lucimara/Projetos/dotNet/Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.AssemblyInfo.cs
+/home/lucimara/Projetos/dotNet/Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.csproj.CoreCompileInputs.cache
