@@ -1,0 +1,15 @@
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.csproj.AssemblyReference.cache
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfoInputs.cache
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfo.cs
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.csproj.CoreCompileInputs.cache
+/home/lucimara/Projetos/dotNet/Revisao/bin/Debug/net6.0/Revisao
+/home/lucimara/Projetos/dotNet/Revisao/bin/Debug/net6.0/Revisao.deps.json
+/home/lucimara/Projetos/dotNet/Revisao/bin/Debug/net6.0/Revisao.runtimeconfig.json
+/home/lucimara/Projetos/dotNet/Revisao/bin/Debug/net6.0/Revisao.dll
+/home/lucimara/Projetos/dotNet/Revisao/bin/Debug/net6.0/Revisao.pdb
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.dll
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/refint/Revisao.dll
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.pdb
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/Revisao.genruntimeconfig.cache
+/home/lucimara/Projetos/dotNet/Revisao/obj/Debug/net6.0/ref/Revisao.dll
